@@ -151,7 +151,7 @@ public class PanelPrincipal extends JPanel {
 							JOptionPane.showMessageDialog(null,"Error al guardar texto");
 						}
 					} else {
-						JOptionPane.showMessageDialog(null,"Debe gusrdar con extension TXT");
+						JOptionPane.showMessageDialog(null,"Debe guardar con extension TXT");
 					}
 				}
 			}	
@@ -174,7 +174,7 @@ public class PanelPrincipal extends JPanel {
 							JOptionPane.showMessageDialog(null,"Error al guardar texto");
 						}
 					} else {
-						JOptionPane.showMessageDialog(null,"Debe gusrdar con extension TXT");
+						JOptionPane.showMessageDialog(null,"Debe guardar con extension TXT");
 					}
 				}
 			}	
