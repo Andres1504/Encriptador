@@ -105,7 +105,7 @@ public class PanelPrincipal extends JPanel {
 		
 		this.desencriptar = new JButton("DESENCRIPTAR");
 		this.desencriptar.setBounds(800, 450 , 140, 30);
-		this.desencriptar.setToolTipText("MOstrar el contenido Oculto del archivo"); 
+		this.desencriptar.setToolTipText("Mostrar el contenido Oculto del archivo"); 
 		
 		this.guardarCryp = new JButton("GUARDAR");
 		this.guardarCryp.setBounds(800, 290 , 130, 25);
